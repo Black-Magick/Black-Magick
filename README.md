@@ -8,11 +8,6 @@ I'm pretty new to the Software Engineering/Development world but am surely learn
 ___
 
 <div align="center">
-<img height="192px" src="[![Anurag's GitHub stats](https://readme-stats.jonas-bernard.dev/api?username=RuiAlvarenga&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)"/>
-<img height="192px" src="[![Top Langs](https://readme-stats.jonas-bernard.dev/api/top-langs/?username=RuiAlvarenga&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)"/>
-</div>
-
-<div align="center">
   <img height="192px" src="https://readme-stats.jonas-bernard.dev/api/top-langs/?username=RuiAlvarenga&theme=transparent"/>
   <img height="192px" src="https://readme-stats.jonas-bernard.dev/api?username=RuiAlvarenga&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
 </div>
@@ -20,4 +15,6 @@ ___
 ### 42 Stats
 ___
 
+<div align="center">
 [![remanuel's 42 stats](https://badge42.vercel.app/api/v2/cld4rhlbe00310fjvf9yrvq1p/stats?cursusId=21&coalitionId=109)](https://github.com/JaeSeoKim/badge42)
+</div>

@@ -9,3 +9,8 @@ ___
 
 [![Anurag's GitHub stats](https://readme-stats.jonas-bernard.dev/api?username=RuiAlvarenga&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://readme-stats.jonas-bernard.dev/api/top-langs/?username=RuiAlvarenga&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### 42 Stats
+___
+
+[![remanuel's 42 stats](https://badge42.vercel.app/api/v2/cld4rhlbe00310fjvf9yrvq1p/stats?cursusId=21&coalitionId=109)](https://github.com/JaeSeoKim/badge42)

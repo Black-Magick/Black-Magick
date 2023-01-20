@@ -13,8 +13,8 @@ ___
 </div>
 
 <div align="center">
-  <img height="192px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuiAlvarenga&theme=transparent"/>
-  <img height="192px" src="https://github-readme-stats.vercel.app/api?username=RuiAlvarenga&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="192px" src="https://readme-stats.jonas-bernard.dev/api/top-langs/?username=RuiAlvarenga&theme=transparent"/>
+  <img height="192px" src="https://readme-stats.jonas-bernard.dev/api?username=RuiAlvarenga&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
 </div>
 
 ### 42 Stats

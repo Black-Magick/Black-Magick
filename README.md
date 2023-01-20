@@ -7,4 +7,5 @@ I'm pretty new to the Software Engineering/Development world but am surely learn
 ### Some stats
 ___
 
-[![Anurag's GitHub stats](https://readme-stats.jonas-bernard.dev/api?username=RuiAlvarenga&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs]([https://readme-stats.jonas-bernard.dev/api/top-langs/?username=RuiAlvarenga)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://readme-stats.jonas-bernard.dev/api?username=RuiAlvarenga&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuiAlvarenga&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

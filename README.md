@@ -1,6 +1,7 @@
 ##  About
 
-........
+-Production Analyst at Alenia Portugal
+-42Lisbon Student
 
 ### Stats
 ___

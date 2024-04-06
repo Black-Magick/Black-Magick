@@ -1,7 +1,7 @@
 ##  About
 
 -Production Analyst at Alenia Portugal  
--42Lisbon Student
+-Former 42Lisbon student
 
 ### Stats
 ___
